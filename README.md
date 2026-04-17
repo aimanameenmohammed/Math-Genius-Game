@@ -23,28 +23,28 @@ This project was built with a focus on **Clean Code** and **Modular Engineering*
 
 ## 🎮 Key Features
 
-* **Dynamic Difficulty Scaling:** Choose between various difficulty levels and operation types.
-* **Time-Trial Mode:** Integrated real-time countdown to challenge the user's cognitive speed.
+* **Dynamic Difficulty Scaling:** Choose between various difficulty levels (Easy, Medium, Hard, Mixed) and operation types.
+* **Time-Trial Mode:** Integrated real-time countdown to challenge the user's cognitive speed and decision-making.
 * **In-Place Dashboard:** Results are displayed via a dynamic Panel overlay system, eliminating the need for redundant pop-up windows.
-* **Immersive Experience:** High-quality audio integration for an engaging gaming session.
+* **Immersive Experience:** High-quality audio integration for an engaging and responsive gaming session.
 
 ---
 
 ## 📸 Project Showroom (UI/UX)
 
 <p align="center">
-  <img src="152629 17-04-2026 تعليق توضيحي.png" width="30%" alt="Start Screen" />
-  <img src="153110 17-04-2026 تعليق توضيحي.png" width="30%" alt="Gameplay" />
-  <img src="153236 17-04-2026 تعليق توضيحي.png" width="30%" alt="Results" />
+  <img src="152629%2017-04-2026%20%D8%AA%D8%B9%D9%84%D9%8A%D9%82%20%D8%AA%D9%88%D8%B6%D9%8A%D8%AD%D9%8A.png" width="30%" alt="Start Screen" />
+  <img src="153110%2017-04-2026%20%D8%AA%D8%B9%D9%84%D9%8A%D9%82%20%D8%AA%D9%88%D8%B6%D9%8A%D8%AD%D9%8A.png" width="30%" alt="Gameplay" />
+  <img src="153236%2017-04-2026%20%D8%AA%D8%B9%D9%84%D9%8A%D9%82%20%D8%AA%D9%88%D8%B6%D9%8A%D8%AD%D9%8A.png" width="30%" alt="Results" />
 </p>
 
 ---
 
 ## 🛠️ Technology Stack
 
-- **Frontend:** C# WinForms (Custom Styled)
-- **Logic:** .NET Framework / C# Object-Oriented Programming
-- **Audio:** System.Media / Interactive Sound Effects
+- **Frontend:** C# WinForms (Custom Styled & GDI+ optimized)
+- **Logic:** .NET Framework / C# Object-Oriented Programming (OOP)
+- **Audio:** System.Media for real-time sound feedback
 
 ---
 
@@ -54,8 +54,8 @@ This project was built with a focus on **Clean Code** and **Modular Engineering*
 *Full-Stack C# Developer & Software Architect Enthusiast*
 
 Connect with me for collaboration or inquiries:
-- 🐙 **[GitHub Portfolio](https://github.com/aimanameenmohammed)**
 - 🔗 **[LinkedIn Profile](https://www.linkedin.com/posts/aiman-ameen-2548673a8_c-ugcPost-7450666322037731328-sQEY)**
+- 🐙 **[GitHub Portfolio](https://github.com/aimanameenmohammed)**
 
 ---
 
